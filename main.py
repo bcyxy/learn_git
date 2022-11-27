@@ -1,8 +1,6 @@
 
 def main():
-    print("yxytest")
-    print("branch yxytest_01 add.")
-    print("branch yxytest_01_2.")
+    print("branch:main change 1")
 
 
 if __name__ == "__main__":
