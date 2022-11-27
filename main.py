@@ -1,6 +1,6 @@
 
 def main():
-    print("branch:main change 5-6")
+    print("b:b2 chg 1")
 
 
 if __name__ == "__main__":
