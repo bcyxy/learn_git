@@ -1,6 +1,6 @@
 
 def main():
-    print("b:b2 chg 1")
+    print("b:b2 chg 2")
 
 
 if __name__ == "__main__":
